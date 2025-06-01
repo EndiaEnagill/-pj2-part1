@@ -41,6 +41,8 @@ conda install -c conda-forge tensorboard
 
 运行`train.py`即可进行训练，训练结果将保存在`model_data`文件夹下指定编号文件夹内，包含模型训练过程中的平均梯度，损失，最佳模型权重以及tensorboard文件。
 
+修改`test.py`中模型权重路径并运行，可以得到模型在测试集上的准确率。
+
 #### 使用tensorboard查看模型训练结果
 
 进入项目根目录后在终端中运行以下命令：
