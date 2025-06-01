@@ -54,3 +54,6 @@ tensorboard --logdir=model_data
 
 打开默认的链接 ` http://localhost:6000/` 即可查看训练结果。
 
+#### 模型权重
+
+模型权重保存在网盘： https://pan.baidu.com/s/1-G5Yc1yP42emsETomiqCvg?pwd=q78r
